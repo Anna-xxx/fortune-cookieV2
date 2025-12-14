@@ -3,13 +3,9 @@
   "short_name": "Fortune Cookie (V.1.2)",
   "description": "Fortune Cookie – Open a cookie, reveal your destiny! 🌟🍪",
   "icons": [
+   
     {
-      "src": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/69386b1bc6c3224c90d788b2/e6b58e02c_icon512.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/69386b1bc6c3224c90d788b2/e6b58e02c_icon512.png",
+      "src": "https://github.com/Anna-xxx/fortune-cookieV2/blob/main/icon512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
